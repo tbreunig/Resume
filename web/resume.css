@@ -1,0 +1,15 @@
+h1{
+   text-align: center;
+}
+
+#address{
+    text-align: center;
+}
+
+.sectionHeaders{
+    font-weight: bold;
+}
+
+div{
+    padding: 10px;
+}
